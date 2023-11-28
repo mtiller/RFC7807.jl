@@ -1,0 +1,9 @@
+name = "RFC7807"
+uuid = "a298c0d3-d027-497b-a8d3-058249cb84fb"
+authors = ["Michael M. Tiller <michael.tiller@juliahub.com>"]
+version = "0.1.0"
+
+[deps]
+JSON = "682c06a0-de6a-54ab-a142-c8b1cf79cde6"
+Serialization = "9e88b42a-f829-5b0c-bbe9-9e923198166b"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
